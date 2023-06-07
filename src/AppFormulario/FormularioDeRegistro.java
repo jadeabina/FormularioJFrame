@@ -1,4 +1,4 @@
-package app;
+package AppFormulario;
 
 import javax.swing.*;
 import java.awt.*;
